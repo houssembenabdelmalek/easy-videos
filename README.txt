@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: Easy Videos
 Donate link: https://www.linkedin.com/in/houssem-ba/
 Tags: video, youtube
 Requires at least: 6.1
