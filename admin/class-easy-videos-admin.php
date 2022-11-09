@@ -187,7 +187,6 @@ class Easy_Videos_Admin {
 			<?php settings_errors(); ?>
 			<?php
 
-				//echo '<iframe src="https://www.youtube.com/embed/'.$yt->id->videoId.'?controls=0" width="95%" /></iframe>';
 				$arr_list = array();
 				$GOOGLE_API_KEY=  'AIzaSyAxWOq5eBubmY7EOvbyIotjG1BeAmY7wkY';
 				$channel = 'UCXuqSBlHAE6Xw-yeJA0Tunw';
