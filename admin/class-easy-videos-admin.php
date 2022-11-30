@@ -188,8 +188,8 @@ class Easy_Videos_Admin {
 			<?php
 
 				$arr_list = array();
-				$GOOGLE_API_KEY=  'AIzaSyAxWOq5eBubmY7EOvbyIotjG1BeAmY7wkY';
-				$channel = 'UCXuqSBlHAE6Xw-yeJA0Tunw';
+				$GOOGLE_API_KEY=  'YOUR_GOOGLE_API_KEY';
+				$channel = 'ID_YouTube_Channel';
 				$max_result = 8;
 				
 				if(!empty(self::get_request_parameter('pageToken'))){
